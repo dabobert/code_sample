@@ -1,0 +1,1 @@
+WickedPdf.config = { :exe_path => YAML.load_file(Rails.root + 'config/wicked_pdf.yml')[Rails.env]['path'] }

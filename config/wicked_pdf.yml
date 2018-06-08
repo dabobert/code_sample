@@ -1,0 +1,11 @@
+development:
+  path: '/usr/local/bin/wkhtmltopdf'
+
+qa:
+  path: '/usr/local/bin/wkhtmltopdf'
+
+production:
+  path: '/usr/local/bin/wkhtmltopdf'
+
+test:
+  path: '/usr/local/bin/wkhtmltopdf'
