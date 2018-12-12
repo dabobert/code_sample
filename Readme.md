@@ -23,9 +23,11 @@ To reach this next step a mime type column will be added to the export tables.  
 
 I'm debating putting [GrapeJS](http://grapesjs.com/demo.html) on trop of this, I'm just concerned that with all the transformations of code happening what the user sees may not actually be what they get.
 
+<!--
 ## Other Samples
 For a while I was working on the idea of creating a version of plex powered by s3 rather than a user's hardrive.  I called it eivu  The server portion is written in Rails, the client is written in Node. THIS IS MY FIRST TIME EVER WORKING WITH OR WRITING NODE
 
 server - [https://github.com/dabobert/eivu-server](https://github.com/dabobert/eivu-server)
 
 client - [https://github.com/dabobert/eivu-client](https://github.com/dabobert/eivu-client)
+-->
